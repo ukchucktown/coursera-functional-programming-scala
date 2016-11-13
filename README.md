@@ -1,2 +1,2 @@
 # coursera-functional-programming-scala
-Coursera Functional Programming in Scala
+Coursera Functional Programming in Scala Repository
